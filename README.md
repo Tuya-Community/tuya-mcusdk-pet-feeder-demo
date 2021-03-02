@@ -7,10 +7,9 @@ This demo describes how to make a smart pet feeder with the Tuya Sandwich develo
 - Food insufficiency warning.
 - Voice prompts.
 
-# Get Started 
 
 # Documentation
-
+https://developer.tuya.com/en/demo/handmade-pet-feeder
 # Support
 You can get support from Tuya with the following methods:
 
